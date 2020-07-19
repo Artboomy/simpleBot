@@ -1,4 +1,4 @@
-# SimpleBot
+# Simple Chatty Bot
 
 Created by tutorial on [JetBrains Academy](hyperskill.org).
 
